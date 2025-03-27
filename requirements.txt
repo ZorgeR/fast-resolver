@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+dnspython
+asyncwhois>=1.1.10
+loguru
+redis
+python-jose[cryptography]
+python-multipart
+slowapi
